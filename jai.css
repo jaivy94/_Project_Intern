@@ -1,0 +1,25 @@
+#MainInfo {
+	font-size: 18px;
+	text-align: center;
+	font-weight: bold;
+}
+
+#Experience_head {
+	font-weight: bold;
+}
+
+
+#dates {
+	text-align: right;
+}
+
+.panel_gold{
+	border: 1px solid #FFD700;
+}
+
+.panel-primary_gold > .panel-heading {
+  color: #000000;
+  background-color: #FFD700;
+  border-color: #FFD700;
+
+}
